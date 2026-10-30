@@ -1,0 +1,11 @@
+{
+  "name": "Clima en tiempo real",
+  "short_name": "Clima",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#1e3c72",
+  "theme_color": "#1e3c72",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
