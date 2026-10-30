@@ -4,6 +4,8 @@ Aplicación web que muestra el clima actual y el pronóstico de los próximos 5 
 
 🔗 **Demo:** https://rafapolo22.github.io/clima-tiempo-real/
 
+![Captura de la app](captura.png)
+
 ## ✨ Funciones
 
 - Buscar el clima de cualquier ciudad.
@@ -30,7 +32,14 @@ No necesita instalación. Puedes:
 
 > Nota: la función de ubicación requiere HTTPS, así que funciona en la demo y no al abrir el archivo directamente.
 
-## 📁 Estructura   
+## 📁 Estructura
+
+```
+index.html      Página principal, con estilos y lógica
+manifest.json   Configuración para instalarla como app
+sw.js           Service worker
+icon.svg        Icono de la app
+```
 
 ## 👤 Autor
 
